@@ -26,7 +26,6 @@
 }
 
 .row .food-item{
-    
     background-color: #999999;
     margin: 12px 6px;
     padding: 6px;
@@ -35,6 +34,8 @@
     position: relative;
 }
 .food-item__title{
+    width: 100px;
+    text-align:center;
     position: absolute;
     top: 0;
     right: 0;
